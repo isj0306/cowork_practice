@@ -1,2 +1,6 @@
 bb
+<<<<<<< HEAD
 cc
+=======
+new
+>>>>>>> 85afb26 (Update file.txt in line 2)
